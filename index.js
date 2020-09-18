@@ -1,5 +1,3 @@
-document.getElementById("back-button").hidden=true 
-
 document.getElementById("show-heart-button").onclick=function() { 
     document.getElementById("heart-img").style.visibility="visible"
     document.getElementById("back-button").hidden=false
